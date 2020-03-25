@@ -1,0 +1,13 @@
+body {
+    margin-left: 165px;
+    margin-right: 10px;
+}
+
+.jumbotron-fluid {
+    width: 75%;
+}
+
+#5-days-weather {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
